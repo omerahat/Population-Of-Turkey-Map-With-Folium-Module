@@ -1,0 +1,82 @@
+number,Province,population,Census region
+1,Adana,1130710,Mediterranean
+2,Adiyaman,178538,Southeastern Anatolia
+3,Afyonkarahisar,128516,Aegean
+4,Agri,79764,Eastern Anatolia
+5,Amasya,74393,Black Sea
+6,Ankara,3203362,Central Anatolia
+7,Antalya,603190,Mediterranean
+8,Artvin,25500,Black Sea
+9,Aydin,143267,Aegean
+10,Balikesir,215436,Marmara
+11,Bilecik,49700,Marmara
+12,Bingol,68876,Eastern Anatolia
+13,Bitlis,46200,Eastern Anatolia
+14,Bolu,84565,Black Sea
+15,Burdur,63363,Mediterranean
+16,Bursa,1194687,Marmara
+17,Canakkale,75810,Marmara
+18,Cankiri,62508,Central Anatolia
+19,Corum,161321,Black Sea
+20,Denizli,275480,Aegean
+21,Diyarbakir,545983,Southeastern Anatolia
+22,Edirne,119298,Marmara
+23,Elazig,266495,Eastern Anatolia
+24,Erzincan,107175,Eastern Anatolia
+25,Erzurum,361235,Eastern Anatolia
+26,Eskisehir,482793,Central Anatolia
+27,Gaziantep,853513,Southeastern Anatolia
+28,Giresun,83636,Black Sea
+29,Gumushane,31000,Black Sea
+30,Hakkari,58145,Eastern Anatolia
+31,Hatay,144910,Mediterranean
+32,Isparta,148496,Mediterranean
+33,Mersin,537842,Mediterranean
+34,Istanbul,8803468,Marmara
+35,Izmir,2232265,Aegean
+36,Kars,78473,Eastern Anatolia
+37,Kastamonu,64606,Black Sea
+38,Kayseri,536392,Central Anatolia
+39,Kirklareli,53221,Marmara
+40,Kirsehir,88105,Central Anatolia
+41,Kocaeli,195699,Marmara
+42,Konya,742690,Central Anatolia
+43,Kutahya,166665,Aegean
+44,Malatya,381081,Eastern Anatolia
+45,Manisa,214345,Aegean
+46,Kahramanmaras,326198,Mediterranean
+47,Mardin,65072,Southeastern Anatolia
+48,Mugla,62600,Aegean
+49,Mus,67927,Eastern Anatolia
+50,Nevsehir,67864,Central Anatolia
+51,Nigde,78088,Central Anatolia
+52,Ordu,112525,Black Sea
+53,Rize,78144,Black Sea
+54,Sakarya,283752,Marmara
+55,Samsun,363180,Black Sea
+56,Siirt,98281,Southeastern Anatolia
+57,Sinop,38600,Black Sea
+58,Sivas,251776,Central Anatolia
+59,Tekirdag,107191,Marmara
+60,Tokat,113100,Black Sea
+61,Trabzon,214949,Black Sea
+62,Tunceli,32800,Eastern Anatolia
+63,Sanliurfa,385588,Southeastern Anatolia
+64,Usak,137001,Aegean
+65,Van,284464,Eastern Anatolia
+66,Yozgat,73930,Central Anatolia
+67,Zonguldak,104276,Black Sea
+68,Aksaray,129949,Central Anatolia
+69,Bayburt,35400,Black Sea
+70,Karaman,105384,Central Anatolia
+71,Kirikkale,205078,Central Anatolia
+72,Batman,246678,Southeastern Anatolia
+73,Sirnak,52743,Southeastern Anatolia
+74,Bartin,55600,Black Sea
+75,Ardahan,18300,Eastern Anatolia
+76,Igdir,59880,Eastern Anatolia
+77,Yalova,70118,Marmara
+78,Karabuk,108000,Black Sea
+79,Kilis,70670,Southeastern Anatolia
+80,Osmaniye,173977,Mediterranean
+81,Duzce,56649,Black Sea
