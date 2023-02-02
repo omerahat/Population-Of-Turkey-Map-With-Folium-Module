@@ -4,6 +4,7 @@ This repository contains a script to create a population-colored map of the prov
 ## Requirements
 
 To run the script, you need to have the following software installed on your computer:
+
 #####Python 
 #####Folium
 #####Pandas
