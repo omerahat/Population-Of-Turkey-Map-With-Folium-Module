@@ -5,11 +5,11 @@ This repository contains a script to create a population-colored map of the prov
 
 To run the script, you need to have the following software installed on your computer:
 
-#####Python 
+##### Python 
 
-#####Folium
+##### Folium
 
-#####Pandas
+##### Pandas
 
 You can install the required packages by running the following command in your terminal:
 ```
