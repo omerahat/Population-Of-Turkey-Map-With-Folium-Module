@@ -22,10 +22,10 @@ python population_map.py
 ```
 The script will generate an HTML file named population_map.html that you can open in a web browser to view the population-colored map of the Turkish provinces.
 
-##Customizing the Map
+## Customizing the Map
 You can customize the appearance of the map by modifying the parameters in the folium.Map() function and the code that generates the choropleth layer. Please refer to the folium documentation for more information.
 
-##Data Source
+## Data Source
 The data used in this script was obtained from an external source. If you use this script, please be sure to cite the data source in your project
 
 ## Output
