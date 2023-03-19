@@ -15,12 +15,6 @@ You can install the required packages by running the following command in your t
 ```
 pip install folium pandas
 ```
-##Running the Script
-To run the script, simply execute the following command in your terminal:
-```
-python population_map.py
-```
-The script will generate an HTML file named population_map.html that you can open in a web browser to view the population-colored map of the Turkish provinces.
 
 ## Customizing the Map
 You can customize the appearance of the map by modifying the parameters in the folium.Map() function and the code that generates the choropleth layer. Please refer to the folium documentation for more information.
